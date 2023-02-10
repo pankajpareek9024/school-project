@@ -1,0 +1,96 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    /* background-color: darkgray; */
+    /* width: 100%; */
+    /* overflow-x:hidden; */
+}
+
+.contect_us {
+    width: 100vw;
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    
+}
+
+.information {
+    width: 50%;
+    /* height: 600px; */
+    display: flex;
+    background-color: blue;
+    color: #ffffff;
+    justify-content: space-around;
+    
+}
+
+.first_colon {
+    
+    margin: 32px 64px;
+}
+.line a{
+    color:red;
+    font-size: xx-large;
+    padding: 12px;
+    margin-left: 22px;
+}
+
+.form_action {
+    background-color: #cec3c3;
+    color: blue;
+    
+}
+
+
+.contect_us address,h3,p,hr {
+    margin: 42px;
+}
+
+.second_colon { margin: 64px 64px;}
+
+.form_action {
+width: 32%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.inner{
+    width: 100%;
+    height: 200px;
+    display: grid;
+    justify-content:center ;
+}
+
+.inner_p{
+    /* height: 35px; */
+}
+
+.form_action input{
+    border: none;
+    border-bottom: 1px solid #808080;
+    width: 290px;
+    outline: none;
+    background-color:#cec3c3 ;
+
+}
+.form_action label{
+    text-transform: uppercase;
+}
+
+.line{
+    display: flex;
+    width: 20%;
+}
+
+.font a i{
+    /* background-color: aliceblue; */
+    justify-items: left;
+    color: red;
+    font-size: xx-large;
+}
+
+
